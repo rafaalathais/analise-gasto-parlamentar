@@ -6,3 +6,4 @@ seaborn
 nltk
 spacy
 wordcloud
+scikit-learn
